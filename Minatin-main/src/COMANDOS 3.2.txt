@@ -1,0 +1,9 @@
+git clone https://github.com/gzuisdomatatadocodmobile/Botx4m.git
+
+cd x4m
+
+chmod +x badut.sh
+
+sh badut.sh
+
+senha: x4m
